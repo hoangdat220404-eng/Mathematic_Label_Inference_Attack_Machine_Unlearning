@@ -26,8 +26,8 @@ This repository provides the reference implementation of **Vector-based Label In
 
 This repository includes two official documentation files:
 
-1. **`Thesis_Report_Vietnamese.pdf` (Bản Tiếng Việt Chính Thức)**:  
-   Báo cáo khóa luận tốt nghiệp đầy đủ bằng tiếng Việt nộp chính thức cho Hội đồng Đánh giá Khóa luận, Khoa Công nghệ Thông tin, Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM. Bao gồm toàn bộ cơ sở lý thuyết, chứng minh toán học, khảo sát thực nghiệm và phân tích bảo mật.
+1. **`T826_KL_MMT03_BaoCao.pdf` (Official Vietnamese)**:  
+  The complete graduation thesis report, written in Vietnamese, to be officially submitted to the Thesis Evaluation Committee, Faculty of Information Technology, University of Science, VNU-HCM. It includes the entire theoretical foundation, mathematical proofs, empirical studies, and security analysis.
 
 2. **`Extended_Summary_English.pdf` (English Extended Summary)**:  
    A comprehensive English academic summary detailing the problem formulation, theoretical analysis of bias shifts, peeling decomposition algorithms for multi-sample batches, and cross-dataset benchmark comparisons.
